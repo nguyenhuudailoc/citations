@@ -1,6 +1,6 @@
 # Các nguồn tham khảo cho bài viết về Tether tại Lounge
 
-[Xem lại bài viết tại đây](https://www.facebook.com/groups/nhdl.lounge/posts/.
+[Xem lại bài viết tại đây](https://www.facebook.com/groups/nhdl.lounge/posts/535258141112532/).
 
 1. https://www.investopedia.com/terms/s/stablecoin.asp     
 2. https://en.wikipedia.org/wiki/Stablecoin     
