@@ -1,6 +1,6 @@
 # Các nguồn tham khảo cho bài viết về phân loại thẻ tại Lounge
 
-[Xem lại bài viết tại đây](https://www.facebook.com/groups/nhdl.lounge/posts/572634300708249/)
+[Xem lại bài viết tại đây](https://www.facebook.com/groups/nhdl.lounge/posts/572634300708249/).
 
 1. https://vnexpress.net/skimming-thiet-bi-danh-cap-thong-tin-the-atm-trong-vai-giay-3742307.html
 2. https://frequentmiler.com/no-more-mst-on-new-samsung-phones/
