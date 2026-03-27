@@ -15,7 +15,8 @@ Trân trọng cảm ơn [Thonky.com](https://www.thonky.com/qr-code-tutorial/) v
 - [Công cụ chuyển đổi số thập phân sang số nhị phân](https://www.rapidtables.com/convert/number/decimal-to-binary.html)     
 - [Công cụ chuyển đổi số nhị phân sang số thập phân](https://www.rapidtables.com/convert/number/binary-to-decimal.html)     
 - [Công cụ chuyển văn bản sang số nhị phân](https://www.rapidtables.com/convert/number/ascii-to-binary.html)     
-Với các công cụ chuyển đổi số thập phân sang nhị phân và ngược lại, bạn có thể dán một danh sách số, phân cách nhau bằng dấu cách để chuyển đổi hàng loạt.     
+Với các công cụ chuyển đổi số thập phân sang nhị phân và ngược lại, bạn có thể dán một danh sách số, phân cách nhau bằng dấu cách để chuyển đổi hàng loạt.
+
 [c] [Bảng các ký tự trong kiểu mã hóa số và chữ cùng giá trị tương ứng của chúng](https://www.thonky.com/qr-code-tutorial/alphanumeric-table).     
 [d] [Bảng thông tin số từ khóa nội dung, từ khóa chữa lỗi và cách chia phần các từ khóa theo từng kích cỡ QR](https://www.thonky.com/qr-code-tutorial/error-correction-table).
 [e] [Công cụ tính toán từ khóa chữa lỗi](https://www.thonky.com/qr-code-tutorial/show-division-steps).     
