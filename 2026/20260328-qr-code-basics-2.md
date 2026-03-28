@@ -18,7 +18,7 @@ Trân trọng cảm ơn [Thonky.com](https://www.thonky.com/qr-code-tutorial/) v
 Với các công cụ chuyển đổi số thập phân sang nhị phân và ngược lại, bạn có thể dán một danh sách số, phân cách nhau bằng dấu cách để chuyển đổi hàng loạt.
 
 [c] [Bảng các ký tự trong kiểu mã hóa số và chữ cùng giá trị tương ứng của chúng](https://www.thonky.com/qr-code-tutorial/alphanumeric-table).     
-[d] [Bảng thông tin số từ khóa nội dung, từ khóa chữa lỗi và cách chia phần các từ khóa theo từng kích cỡ QR](https://www.thonky.com/qr-code-tutorial/error-correction-table).
+[d] [Bảng thông tin số từ khóa nội dung, từ khóa chữa lỗi và cách chia phần các từ khóa theo từng kích cỡ QR](https://www.thonky.com/qr-code-tutorial/error-correction-table).     
 [e] [Công cụ tính toán từ khóa chữa lỗi](https://www.thonky.com/qr-code-tutorial/show-division-steps).     
 [f] [Danh sách số bit cần bổ sung vào cuối mã nhị phân theo từng kích cỡ QR](https://www.thonky.com/qr-code-tutorial/structure-final-message#list-of-versions-and-required-remainder-bits).      
 [g] [Thông tin bổ sung về thông tin kích cỡ](https://www.thonky.com/qr-code-tutorial/format-version-information#version-information).     
