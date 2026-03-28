@@ -10,8 +10,8 @@ Trân trọng cảm ơn [Thonky.com](thonky.com) đã cung cấp nhiều thông 
 
 #### Tư liệu sử dụng
 
-[1] Goodrich, J. (2022, October 12). How a board game and skyscrapers inspired the development of the QR code. IEEE Spectrum. https://spectrum.ieee.org/how-a-board-game-and-skyscrapers-inspired-the-development-of-the-qr-code     
-[2] The Little-Known story of the birth of the QR code. (2020, February 10). nippon.com.     https://web.archive.org/web/20200304140056/https://www.nippon.com/en/news/fnn20191214001/the-little-known-story-of-the-birth-of-the-qr-code.html     
-[3] Types of QR code | QRcode.com | DENSO WAVE. (n.d.). https://www.qrcode.com/en/codes/     
-[4] SBS Language. (2021, November 11). “Father of QR Code” says the technology’s future is in storing important medical information. https://www.sbs.com.au/language/japanese/en/podcast-episode/father-of-qr-code-says-the-technologys-future-is-in-storing-important-medical-information/yz3fln3b7     
-[5] Thonky.com. (n.d.). Data Encoding. QR Code Tutorial. https://www.thonky.com/qr-code-tutorial/data-encoding     
+[1] Goodrich, J. (2022, October 12). How a board game and skyscrapers inspired the development of the QR code. *IEEE Spectrum*. https://spectrum.ieee.org/how-a-board-game-and-skyscrapers-inspired-the-development-of-the-qr-code     
+[2] *The Little-Known story of the birth of the QR code*. (2020, February 10). nippon.com.     https://web.archive.org/web/20200304140056/https://www.nippon.com/en/news/fnn20191214001/the-little-known-story-of-the-birth-of-the-qr-code.html     
+[3] *Types of QR code | QRcode.com | DENSO WAVE*. (n.d.). https://www.qrcode.com/en/codes/     
+[4] SBS Language. (2021, November 11). *“Father of QR Code” says the technology’s future is in storing important medical information*. https://www.sbs.com.au/language/japanese/en/podcast-episode/father-of-qr-code-says-the-technologys-future-is-in-storing-important-medical-information/yz3fln3b7     
+[5] Thonky.com. (n.d.). *Data Encoding*. QR Code Tutorial. https://www.thonky.com/qr-code-tutorial/data-encoding     
