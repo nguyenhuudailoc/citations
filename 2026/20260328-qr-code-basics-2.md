@@ -2,7 +2,7 @@
 
 ### Phần 2: Sơ lược cách tạo ra mã QR
 
-[Xem lại bài viết tại đây](TBU).
+[Xem lại bài viết tại đây](https://www.facebook.com/groups/nhdl.lounge/posts/1428615318443472).
 
 #### Lời cảm ơn
 
