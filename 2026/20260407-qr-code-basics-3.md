@@ -2,7 +2,7 @@
 
 ### Phần 3: EMVCo và tiêu chuẩn QR thanh toán toàn cầu
 
-[Xem lại bài viết tại đây](TBU).
+[Xem lại bài viết tại đây](https://www.facebook.com/groups/nhdl.lounge/posts/1435802971058040).
 
 #### Liên kết
 
