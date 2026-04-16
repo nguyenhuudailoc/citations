@@ -17,5 +17,5 @@
 
 #### Tư liệu sử dụng
 
-[1] _Thông báo về Quyết định 1928/QĐ-NHNN công bố Tiêu chuẩn cơ sở “Đặc tả kỹ thuật QR Code hiển thị từ phía Đơn vị chấp nhận thanh toán tại Việt Nam.”_ (2018, November 10). Ngân Hàng Nhà Nước Việt Nam. https://sbv.gov.vn/vi/w/sbv354184
+[1] _Thông báo về Quyết định 1928/QĐ-NHNN công bố Tiêu chuẩn cơ sở “Đặc tả kỹ thuật QR Code hiển thị từ phía Đơn vị chấp nhận thanh toán tại Việt Nam.”_ (2018, November 10). Ngân Hàng Nhà Nước Việt Nam. https://sbv.gov.vn/vi/w/sbv354184     
 [2] _NAPAS VÀ CÁC NGÂN HÀNG CHÍNH THỨC RA MẮT THƯƠNG HIỆU VIETQR VÀ DỊCH VỤ CHUYỂN TIỀN NHANH NAPAS247 BẰNG MÃ QR_. (2021, June 15). https://napas.com.vn/napas-va-cac-ngan-hang-chinh-thuc-ra-mat-thuong-hieu-vietqr-va-dich-vu-chuyen-tien-nhanh-napas247-bang-ma-qr-182755.htm
