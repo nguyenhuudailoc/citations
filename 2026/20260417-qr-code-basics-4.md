@@ -12,7 +12,7 @@
 [d] [Danh sách đơn vị tiền tệ theo tiêu chuẩn ISO 4217](https://en.wikipedia.org/wiki/ISO_4217#List_of_ISO_4217_currency_codes).     
 [e] [Danh sách mã quốc gia theo tiêu chuẩn ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).     
 [f] [Danh sách mã tổ chức phát hành thẻ/mã BIN tại Việt Nam](https://nguyenhuudailoc.com/l/vietqr-bin/).     
-[g] [Danh sách mã danh mục ĐVCNTT `(MCC code`)](https://github.com/greggles/mcc-codes/blob/main/mcc_codes.csv).     
+[g] [Danh sách mã danh mục ĐVCNTT \(MCC code\)](https://github.com/greggles/mcc-codes/blob/main/mcc_codes.csv).     
 [h] [Công cụ tính toán CRC để bổ sung vào cuối dữ liệu VietQR](https://crccalc.com/?crc=&method=CRC-16/IBM-3740&datatype=ascii&outtype=hex).     
 
 #### Tư liệu sử dụng
