@@ -2,7 +2,7 @@
 
 ### Phần 4: Bên trong VietQR, thứ thay đổi cách thanh toán tại Việt Nam
 
-[Xem lại bài viết tại đây](TBU).
+[Xem lại bài viết tại đây](https://www.facebook.com/groups/nhdl.lounge/posts/1443010773670593).
 
 #### Liên kết
 
